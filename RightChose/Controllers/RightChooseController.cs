@@ -5,12 +5,13 @@ using System.Diagnostics.CodeAnalysis;
 using System.Globalization;
 using Newtonsoft.Json;
 using static System.Net.Mime.MediaTypeNames;
+using Microsoft.AspNetCore.Cors;
 
 
 namespace RightChose.Controllers
 {
     [Route("api/[controller]")]
-
+    [EnableCors]
     [ApiController]
     public class RightChooseController : ControllerBase
     {
