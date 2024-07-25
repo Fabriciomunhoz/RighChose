@@ -16,11 +16,11 @@ namespace RightChose.Controllers
     public class RightChooseController : ControllerBase
     {
         private const double JurosNubank = 0.0526;
-        private const double JurosPixParceladoNubank = 0.0199;
+        private const double JurosPixParceladoNubank = 0.0199 + 0.0438;
         private const double JurosPixPicPay = 0.0599;
 
         [HttpGet]
-        public async Task<IActionResult> Consulta(double valor, string formadepagamento, int quantidadeParcelas)
+        public async Task<IActionResult> Consulta(double valor, string formadepagamento, int? quantidadeParcelas)
         {
 
             if (quantidadeParcelas == null)
@@ -45,8 +45,9 @@ namespace RightChose.Controllers
                 case "pix parcelado":
                     juros = JurosPixParceladoNubank;
                     break;
-
-
+                case "juros pix picpay":
+                    juros = JurosPixPicPay;
+                    break;
                 default:
                     return BadRequest("Forma de pagamento não reconhecida.");
                     break;
@@ -74,5 +75,10 @@ namespace RightChose.Controllers
 
             return Ok(parcelasDeJuros);
         }
+
+
+
+
+
     }
 }
