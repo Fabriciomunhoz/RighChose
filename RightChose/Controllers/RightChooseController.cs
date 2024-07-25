@@ -74,11 +74,7 @@ namespace RightChose.Controllers
 
 
             return Ok(parcelasDeJuros);
-        }
-
-
-
-
-
+        } 
     }
 }
+

@@ -1,0 +1,506 @@
+[
+  {
+    "Posicao": 1,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "PARANA BCO S.A.",
+    "TaxaJurosAoMes": "2,47",
+    "TaxaJurosAoAno": "33,98"
+  },
+  {
+    "Posicao": 2,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "FACTA S.A. CFI",
+    "TaxaJurosAoMes": "2,56",
+    "TaxaJurosAoAno": "35,46"
+  },
+  {
+    "Posicao": 3,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO MERCANTIL DO BRASIL S.A.",
+    "TaxaJurosAoMes": "2,61",
+    "TaxaJurosAoAno": "36,25"
+  },
+  {
+    "Posicao": 4,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO AGIBANK S.A.",
+    "TaxaJurosAoMes": "2,79",
+    "TaxaJurosAoAno": "39,13"
+  },
+  {
+    "Posicao": 5,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DAYCOVAL S.A",
+    "TaxaJurosAoMes": "2,83",
+    "TaxaJurosAoAno": "39,76"
+  },
+  {
+    "Posicao": 6,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO PAN",
+    "TaxaJurosAoMes": "4,00",
+    "TaxaJurosAoAno": "60,15"
+  },
+  {
+    "Posicao": 7,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO GENIAL",
+    "TaxaJurosAoMes": "4,03",
+    "TaxaJurosAoAno": "60,72"
+  },
+  {
+    "Posicao": 8,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO BMG S.A.",
+    "TaxaJurosAoMes": "5,04",
+    "TaxaJurosAoAno": "80,33"
+  },
+  {
+    "Posicao": 9,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "KREDILIG S.A. - CFI",
+    "TaxaJurosAoMes": "5,24",
+    "TaxaJurosAoAno": "84,53"
+  },
+  {
+    "Posicao": 10,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO BRADESCO S.A.",
+    "TaxaJurosAoMes": "5,25",
+    "TaxaJurosAoAno": "84,86"
+  },
+  {
+    "Posicao": 11,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BRB - BCO DE BRASILIA S.A.",
+    "TaxaJurosAoMes": "5,57",
+    "TaxaJurosAoAno": "91,69"
+  },
+  {
+    "Posicao": 12,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO BARI S.A.",
+    "TaxaJurosAoMes": "5,61",
+    "TaxaJurosAoAno": "92,41"
+  },
+  {
+    "Posicao": 13,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "VIA CERTA FINANCIADORA S.A. - CFI",
+    "TaxaJurosAoMes": "6,13",
+    "TaxaJurosAoAno": "104,16"
+  },
+  {
+    "Posicao": 14,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO SICOOB S.A.",
+    "TaxaJurosAoMes": "6,49",
+    "TaxaJurosAoAno": "112,78"
+  },
+  {
+    "Posicao": 15,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO BTG PACTUAL S.A.",
+    "TaxaJurosAoMes": "6,62",
+    "TaxaJurosAoAno": "115,91"
+  },
+  {
+    "Posicao": 16,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO C6 S.A.",
+    "TaxaJurosAoMes": "6,73",
+    "TaxaJurosAoAno": "118,37"
+  },
+  {
+    "Posicao": 17,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO BRADESCARD",
+    "TaxaJurosAoMes": "6,87",
+    "TaxaJurosAoAno": "121,89"
+  },
+  {
+    "Posicao": 18,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO BANESTES S.A.",
+    "TaxaJurosAoMes": "6,99",
+    "TaxaJurosAoAno": "125,04"
+  },
+  {
+    "Posicao": 19,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "SCFI EFÍ S.A.",
+    "TaxaJurosAoMes": "7,08",
+    "TaxaJurosAoAno": "127,29"
+  },
+  {
+    "Posicao": 20,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "HS FINANCEIRA",
+    "TaxaJurosAoMes": "7,16",
+    "TaxaJurosAoAno": "129,34"
+  },
+  {
+    "Posicao": 21,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DO NORDESTE DO BRASIL S.A.",
+    "TaxaJurosAoMes": "7,42",
+    "TaxaJurosAoAno": "136,16"
+  },
+  {
+    "Posicao": 22,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "CAIXA ECONOMICA FEDERAL",
+    "TaxaJurosAoMes": "7,70",
+    "TaxaJurosAoAno": "143,44"
+  },
+  {
+    "Posicao": 23,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DO EST. DO PA S.A.",
+    "TaxaJurosAoMes": "7,91",
+    "TaxaJurosAoAno": "149,25"
+  },
+  {
+    "Posicao": 24,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO STELLANTIS S.A.",
+    "TaxaJurosAoMes": "8,20",
+    "TaxaJurosAoAno": "157,36"
+  },
+  {
+    "Posicao": 25,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "NU FINANCEIRA S.A. CFI",
+    "TaxaJurosAoMes": "8,29",
+    "TaxaJurosAoAno": "160,02"
+  },
+  {
+    "Posicao": 26,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DIGIMAIS S.A.",
+    "TaxaJurosAoMes": "8,59",
+    "TaxaJurosAoAno": "168,69"
+  },
+  {
+    "Posicao": 27,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO RENDIMENTO S.A.",
+    "TaxaJurosAoMes": "8,67",
+    "TaxaJurosAoAno": "171,33"
+  },
+  {
+    "Posicao": 28,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DO BRASIL S.A.",
+    "TaxaJurosAoMes": "8,89",
+    "TaxaJurosAoAno": "177,76"
+  },
+  {
+    "Posicao": 29,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO CSF S.A.",
+    "TaxaJurosAoMes": "8,97",
+    "TaxaJurosAoAno": "180,45"
+  },
+  {
+    "Posicao": 30,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DO ESTADO DO RS S.A.",
+    "TaxaJurosAoMes": "9,09",
+    "TaxaJurosAoAno": "184,09"
+  },
+  {
+    "Posicao": 31,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO TRIANGULO S.A.",
+    "TaxaJurosAoMes": "9,21",
+    "TaxaJurosAoAno": "187,73"
+  },
+  {
+    "Posicao": 32,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO XP S.A.",
+    "TaxaJurosAoMes": "9,22",
+    "TaxaJurosAoAno": "188,00"
+  },
+  {
+    "Posicao": 33,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "LUIZACRED S.A. SCFI",
+    "TaxaJurosAoMes": "9,40",
+    "TaxaJurosAoAno": "193,86"
+  },
+  {
+    "Posicao": 34,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "ITAÚ UNIBANCO HOLDING S.A.",
+    "TaxaJurosAoMes": "10,08",
+    "TaxaJurosAoAno": "216,47"
+  },
+  {
+    "Posicao": 35,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "PORTOSEG S.A. CFI",
+    "TaxaJurosAoMes": "10,11",
+    "TaxaJurosAoAno": "217,69"
+  },
+  {
+    "Posicao": 36,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO BV S.A.",
+    "TaxaJurosAoMes": "10,21",
+    "TaxaJurosAoAno": "221,27"
+  },
+  {
+    "Posicao": 37,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO SANTANDER (BRASIL) S.A.",
+    "TaxaJurosAoMes": "10,37",
+    "TaxaJurosAoAno": "226,57"
+  },
+  {
+    "Posicao": 38,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO ORIGINAL",
+    "TaxaJurosAoMes": "10,37",
+    "TaxaJurosAoAno": "226,79"
+  },
+  {
+    "Posicao": 39,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO INVESTCRED UNIBANCO S.A.",
+    "TaxaJurosAoMes": "10,41",
+    "TaxaJurosAoAno": "228,28"
+  },
+  {
+    "Posicao": 40,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "NEON FINANCEIRA - CFI S.A.",
+    "TaxaJurosAoMes": "10,44",
+    "TaxaJurosAoAno": "229,36"
+  },
+  {
+    "Posicao": 41,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO SAFRA S.A.",
+    "TaxaJurosAoMes": "10,59",
+    "TaxaJurosAoAno": "234,57"
+  },
+  {
+    "Posicao": 42,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO BNP PARIBAS BRASIL S A",
+    "TaxaJurosAoMes": "10,86",
+    "TaxaJurosAoAno": "244,47"
+  },
+  {
+    "Posicao": 43,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO AFINZ S.A. - BM",
+    "TaxaJurosAoMes": "10,98",
+    "TaxaJurosAoAno": "248,96"
+  },
+  {
+    "Posicao": 44,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "FIN. ITAU CBD CFI",
+    "TaxaJurosAoMes": "11,00",
+    "TaxaJurosAoAno": "250,02"
+  },
+  {
+    "Posicao": 45,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO SOFISA S.A.",
+    "TaxaJurosAoMes": "11,10",
+    "TaxaJurosAoAno": "253,67"
+  },
+  {
+    "Posicao": 46,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "HIPERCARD BM S.A.",
+    "TaxaJurosAoMes": "11,13",
+    "TaxaJurosAoAno": "254,83"
+  },
+  {
+    "Posicao": 47,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "DM SA CFI",
+    "TaxaJurosAoMes": "11,16",
+    "TaxaJurosAoAno": "256,03"
+  },
+  {
+    "Posicao": 48,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "NOVO BCO CONTINENTAL S.A. - BM",
+    "TaxaJurosAoMes": "11,17",
+    "TaxaJurosAoAno": "256,14"
+  },
+  {
+    "Posicao": 49,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO SENFF S.A.",
+    "TaxaJurosAoMes": "11,23",
+    "TaxaJurosAoAno": "258,77"
+  },
+  {
+    "Posicao": 50,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "ZEMA CFI S/A",
+    "TaxaJurosAoMes": "11,69",
+    "TaxaJurosAoAno": "277,01"
+  },
+  {
+    "Posicao": 51,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "CARUANA SCFI",
+    "TaxaJurosAoMes": "11,90",
+    "TaxaJurosAoAno": "285,44"
+  },
+  {
+    "Posicao": 52,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "CREDIARE CFI S.A.",
+    "TaxaJurosAoMes": "12,02",
+    "TaxaJurosAoAno": "290,22"
+  },
+  {
+    "Posicao": 53,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+    "TaxaJurosAoMes": "12,13",
+    "TaxaJurosAoAno": "295,06"
+  },
+  {
+    "Posicao": 54,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "OMNI BANCO S.A.",
+    "TaxaJurosAoMes": "12,18",
+    "TaxaJurosAoAno": "297,21"
+  },
+  {
+    "Posicao": 55,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "CALCRED S.A.",
+    "TaxaJurosAoMes": "13,17",
+    "TaxaJurosAoAno": "341,18"
+  },
+  {
+    "Posicao": 56,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BANCO DIGIO",
+    "TaxaJurosAoMes": "13,22",
+    "TaxaJurosAoAno": "343,55"
+  },
+  {
+    "Posicao": 57,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO CREFISA S.A.",
+    "TaxaJurosAoMes": "13,63",
+    "TaxaJurosAoAno": "363,28"
+  },
+  {
+    "Posicao": 58,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "PEFISA S.A. - C.F.I.",
+    "TaxaJurosAoMes": "14,03",
+    "TaxaJurosAoAno": "383,50"
+  },
+  {
+    "Posicao": 59,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "REALIZE CFI S.A.",
+    "TaxaJurosAoMes": "14,48",
+    "TaxaJurosAoAno": "406,56"
+  },
+  {
+    "Posicao": 60,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "MERCADO CRÉDITO SCFI S.A.",
+    "TaxaJurosAoMes": "15,04",
+    "TaxaJurosAoAno": "437,51"
+  },
+  {
+    "Posicao": 61,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "MIDWAY S.A. - SCFI",
+    "TaxaJurosAoMes": "15,13",
+    "TaxaJurosAoAno": "442,11"
+  },
+  {
+    "Posicao": 62,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "M PAGAMENTOS S.A. CFI",
+    "TaxaJurosAoMes": "17,96",
+    "TaxaJurosAoAno": "625,72"
+  },
+  {
+    "Posicao": 63,
+    "Segmento": "Pessoa Física",
+    "Modalidade": "Cartão de crédito - parcelado - Pré-fixado",
+    "InstituicaoFinanceira": "BCO DO EST. DE SE S.A.",
+    "TaxaJurosAoMes": "19,00",
+    "TaxaJurosAoAno": "706,10"
+  }
+]
