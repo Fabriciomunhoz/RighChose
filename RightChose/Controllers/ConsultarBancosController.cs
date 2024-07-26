@@ -18,11 +18,20 @@ namespace RightChose.Controllers
             string jsonString = System.IO.File.ReadAllText(pathFile);
 
             List<Banco> bancos = System.Text.Json.JsonSerializer.Deserialize<List<Banco>>(jsonString);
+            var bancosViewModel = new List<Banco>();
 
             foreach (var banco in bancos)
             {
-                
+                bancosViewModel.Add(new Banco()
+                {
+                    Posicao = banco.Posicao,
+                    InstituicaoFinanceira = banco.InstituicaoFinanceira,
+                    TaxaJurosAoMes = banco.TaxaJurosAoMes
+
+                });
             }
+
+            return Ok(bancosViewModel);
 
 
 
