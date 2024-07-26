@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Text.Json;
 using System.IO;
+using System.Security.Cryptography.X509Certificates;
+using RightChose.Models;
 
 namespace RightChose.Controllers
 {
@@ -17,7 +19,7 @@ namespace RightChose.Controllers
 
             string jsonString = System.IO.File.ReadAllText(pathFile);
 
-            List<Banco> bancos = System.Text.Json.JsonSerializer.Deserialize<List<Banco>>(jsonString);
+            List<Banco>? bancos = System.Text.Json.JsonSerializer.Deserialize<List<Banco>>(jsonString);
             var bancosViewModel = new List<Banco>();
 
             foreach (var banco in bancos)
@@ -26,9 +28,20 @@ namespace RightChose.Controllers
                 {
                     Posicao = banco.Posicao,
                     InstituicaoFinanceira = banco.InstituicaoFinanceira,
-                    TaxaJurosAoMes = banco.TaxaJurosAoMes
+                    TaxaJurosAoMes = banco.TaxaJurosAoMes + "%"
 
                 });
+
+
+                var instituicaoFinanceira = banco.InstituicaoFinanceira;
+                var jurosaoMes = Convert.ToDouble(banco.TaxaJurosAoMes) / 100;
+
+
+
+                Console.WriteLine(Math.Round(jurosaoMes, 2));
+
+
+
             }
 
             return Ok(bancosViewModel);
@@ -37,14 +50,5 @@ namespace RightChose.Controllers
 
         }
 
-        public class Banco
-        {
-            public int Posicao { get; set; }
-            public string InstituicaoFinanceira { get; set; }
-            public string TaxaJurosAoMes { get; set; }
-            //public string InstituicaoFinanceira { get; set; }
-            //public string commands { get; set; }
-            //public string battery { get; set; }
-        }
     }
 }
