@@ -53,7 +53,7 @@ namespace RightChose.Controllers
 
                 
 
-                double valorComJuros = valor + (valor * (Convert.ToDouble(banco?.TaxaJurosAoMes?.Replace(",", "."))/100) * parcela);
+                double valorComJuros = valor + (valor * (Convert.ToDouble(banco?.TaxaJurosAoMes)/100) * parcela);
                 double valorcomParcela = valorComJuros / parcela;
 
                 double valorDoJuros = valorComJuros - valor;
